@@ -4,7 +4,7 @@
   <groupId>com.github.chadrosenquist</groupId>
   <artifactId>generate-password</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>generate-password</name>
   <url>http://maven.apache.org</url>
   <properties>
